@@ -1,4 +1,7 @@
 This repository serves as a live documentation of my technical environment. As an aspiring IT professional, I believe that a well-optimized system is the foundation of great work. Here, I track my hardware evolution, OS configurations, and the software stacks I use to build my portfolio.
+![image2 (1)](https://github.com/user-attachments/assets/c683bcbc-d8dc-4349-bc07-1af5204bddfb)
+![image0 (1)](https://github.com/user-attachments/assets/10643085-4eb0-424f-9665-fd8f79780ab3)
+
 
 Component,Specification
 Form Factor,Small Form Factor (SFF)
